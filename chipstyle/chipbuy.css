@@ -1,0 +1,25 @@
+.lays-img {
+  width: 160px;
+}
+
+div {
+  position: relative;
+  z-index: 2;
+}
+
+div#second {
+  position: relative;
+}
+
+.lays-cost {
+  color: rgb(37, 37, 163);
+  margin-left: 50px;
+  background-color: white;
+  border: none;
+  font-size: 20px;
+}
+
+.container-one {
+  margin-top: 120px;
+  margin-left: 90px;
+}

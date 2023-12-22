@@ -1,0 +1,17 @@
+.text {
+  font-size: 20px;
+  font-family: arial;
+  color: rgb(37, 37, 163);
+}
+
+.main-text {
+  font-size: 100px;
+  font-family: arial;
+  margin-left: 290px;
+  font-weight: bold;
+  color: rgb(37, 37, 163);
+}
+
+body {
+  background-color: gray;
+}

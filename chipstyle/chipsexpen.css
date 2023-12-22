@@ -1,0 +1,126 @@
+.dollar-sign {
+  border-radius: 6px;
+  width:260px;
+  height: 300px;
+  margin-left: 20px;
+  margin-right: 10px;
+  opacity: 0.7;
+  margin-top: 30px;
+  box-shadow: 10px 10px 10px black;
+  transition: 0.30s;
+}
+
+.dollar-sign:hover {
+  width: 280px;
+  height: 320px;
+}
+
+.dollar-sign2 {
+  border-radius: 6px;
+  width:260px;
+  height: 300px;
+  margin-left: 20px;
+  opacity: 0.7;
+  margin-top: 30px;
+  box-shadow: 10px 10px 10px black;
+  margin-left: 10px;
+  transition: 0.3s;
+}
+
+.dollar-sign2:hover {
+  width: 280px;
+  height: 320px;
+}
+
+.image {
+  width: 1240px;
+  height: 250px;
+  border-color: rgb(37, 37, 163);
+  margin-left: 9px;
+}
+
+.button-container {
+  display: flex;
+  margin-left: 360px;
+}
+
+.home-button {
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  font-family: arial;
+  font-size: 30px;
+  color: rgb(37, 37, 163);
+  background-color: gray;
+  border-color: rgb(37, 37, 163);
+  border-radius: 4px;
+  border-style: solid;
+  transition: 0.30s;
+  cursor: pointer;
+}
+
+.home-button:hover {
+  background-color: rgb(37, 37, 163);
+  color: white;
+}
+
+.home-button:active {
+  opacity: 0.7;
+}
+
+.buy-button {
+  margin-left: 0px;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  font-family: arial;
+  font-size: 30px;
+  color: rgb(37, 37, 163);
+  background-color: gray;
+  border-color: rgb(37, 37, 163);
+  border-radius: 4px;
+  border-style: solid;
+  transition: 0.30s;
+  cursor: pointer;
+  margin-left: 20px;
+}
+
+body {
+  background: gray;
+}
+
+.buy-button:hover {
+  background-color: rgb(37, 37, 163);
+  color: white;
+}
+
+.buy-button:active {
+  opacity: 0.7;
+}
+
+.button-container2 {
+  display: flex;
+  margin-left: 490px;
+}
+
+.sign {
+  margin-right: 300px;
+  font-size: 40px;
+  color:rgb(37, 37, 163);
+}
+
+.sign2 {
+  font-size: 40px;
+  color: rgb(37, 37, 163);
+}
+
+.chip-text {
+  font-size: 50px;
+  font-family: arial;
+  margin-left: 400px;
+  font-weight: bold;
+  color: rgb(37, 37, 163);
+}
+
